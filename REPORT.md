@@ -22,6 +22,3 @@ int main() {
     std::cout << "Hello " << nama << std::endl;
 
     return 0;
-}
-
-! <img width="439" height="74" alt="image" src="https://github.com/user-attachments/assets/00dbe795-814a-47b5-a6e7-3c7488af5984" />
