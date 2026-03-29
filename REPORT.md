@@ -22,8 +22,11 @@ int main() {
     std::cout << "Hello " << nama << std::endl;
 
     return 0;
+<<<<<<< HEAD
 }
 ```
 ![Screenshot Terminal WSL](hasil_terminal.png)
 
 Ini adalah Screenshot hasilnya 
+=======
+>>>>>>> 1dfc04ec3fe8c6bccfddb89b65b865d692c526a6
