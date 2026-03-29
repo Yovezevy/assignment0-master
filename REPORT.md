@@ -23,3 +23,5 @@ int main() {
 
     return 0;
 }
+```
+![Screenshot Terminal WSL](hasil_terminal.png)
