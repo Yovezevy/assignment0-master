@@ -25,3 +25,5 @@ int main() {
 }
 ```
 ![Screenshot Terminal WSL](hasil_terminal.png)
+
+Ini adalah Screenshot hasilnya 
